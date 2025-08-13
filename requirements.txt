@@ -1,0 +1,11 @@
+# Зависимости для FastAPI бэкенда
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+python-multipart==0.0.6
+pydantic==2.5.0
+
+# Зависимости для PyQt5 клиента
+PyQt5==5.15.10
+requests==2.31.0
